@@ -4,7 +4,7 @@ To demonstrate my skill and experience with vulnerability scanning, I will walk 
 
 ## Video Walkthrough
 
-
+https://github.com/davidadabao/How-to-Set-Up-Tenable-Nessus-to-Scan-a-Windows-10-VM-on-VirtualBox-for-Vulnerabilities/blob/main/How%20to%20scan%20for%20Vulnerabilities%20with%20Tenable%20Nessus.mp4
 
 
 Lab requirements:
