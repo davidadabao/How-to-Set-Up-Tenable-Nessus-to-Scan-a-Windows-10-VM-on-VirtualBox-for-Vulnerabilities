@@ -1,14 +1,11 @@
 # How to Set Up Tenable Nessus to Scan a Windows 10 VM on VirtualBox for Vulnerabilities
 
-To demonstrate my skill and experience with vulnerability scanning, I will walk you through the process of downloading, installing, and configuring Tenable Nessus to scan a Windows 10 machine running on VirtualBox for vulnerabilities. Nessus is a powerful vulnerability scanner that helps identify and fix security issues.
+To demonstrate my skill and experience with vulnerability scanning, i will walk through the process of downloading, installing, and configuring Tenable Nessus to scan a Windows 10 machine running on VirtualBox for vulnerabilities. Nessus is a powerful vulnerability scanner that helps identify and fix security issues.
 
 ## Video Walkthrough
-[![Watch the video]()]()
 
-[![Video](https://img.youtube.com/vi/<https://youtu.be/uCPzHzYn0J>/hqdefault.jpg)](https://youtu.be/uCPzHzYn0JY)
-
-https://img.youtube.com/vi/<https://youtu.be/uCPzHzYn0J>/hqdefault.jpg
-
+[![Video](https://github.com/davidadabao/How-to-Set-Up-Tenable-Nessus-to-Scan-a-Windows-10-VM-on-VirtualBox-for-Vulnerabilities/blob/main/Nessus.png
+)](https://youtu.be/uCPzHzYn0JY)
 
 Lab requirements:
 1. VirtualBox installed on your host machine.
